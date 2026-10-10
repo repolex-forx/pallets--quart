@@ -1,0 +1,11 @@
+{
+  "org": "pallets",
+  "repo": "quart",
+  "versions": [
+    {
+      "commit": "29d339c87f9efd1ba5268666e2404530fe078911",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:15:50.949590+00:00"
+    }
+  ]
+}
