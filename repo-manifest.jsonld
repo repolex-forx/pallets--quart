@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pallets/quart/commit/29d339c87f9efd1ba5268666e2404530fe078911",
       "git:hexsha": "29d339c87f9efd1ba5268666e2404530fe078911",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T04:15:50.948763+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pallets/quart/commit/d7d8127a9ebc785966c771249de94a2e9ceefb86",
